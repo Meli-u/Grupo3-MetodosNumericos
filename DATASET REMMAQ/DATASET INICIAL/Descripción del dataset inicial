@@ -1,0 +1,6 @@
+La forma en la que se presentó el dataset fue a través de archivos excel separados por cada tipo de variable.
+Cada uno de estos archivos cuenta con una columna que representa el instante de tiempo en la cual se obtuvo el dato
+y  otras columnas adicionales las cuales mencionan de que parte de la red de monitoreo pertence el dato.
+
+Dado a las limitaciones de espacio no es posible subir todo el dataset, sin embargo, en el siguiente link se puede encontrar los datos:
+https://datosambiente.quito.gob.ec/
