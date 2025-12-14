@@ -1,7 +1,9 @@
-El dataset fue presentado en múltiples archivos de Excel, en donde, se separaban por cada tipo de variable monitorieada.
-Cada archivo incluye una columna que indica el instante de tiempo en el que se registró el dato, asi como algunas columnas
-que especifican a que estación pertenece cada dato.
+El conjunto de datos original se presentó en siete archivos de Excel diferentes, cada uno correspondiente a un tipo de variable monitorieada.
+Cada archivo incluye una columna que indica el instante de tiempo en el que se registró el dato, asi como algunas columnas que especifican la
+estación a la que pertenece cada dato.
 
-Dado a las limitaciones de espacio no es posible incluir todo el dataset, sin embargo, en el siguiente link se puede encontrar los datos completos:
+Dado a las limitaciones de espacio no es posible incluir todos los archivos por separado, sin embargo, en el siguiente link se pueden encontrar los datos completos:
+(dataset por variable)
 https://datosambiente.quito.gob.ec/
 
+Por esta razón reunimos toda la información necesaria en un único archivo de Excel en el que se puede acceder a los datos completos que serán utilizados.
