@@ -1,4 +1,4 @@
-#### Grupo3-MetodosNumericos
+#### Grupo3-MétodosNuméricos
 
 ###### Este proyecto consiste en analizar y predecir la calidad del aire en la ciudad de Quito, tomando como base registros históricos recopilados entre octubre de 2023 y octubre de 2025. La ciudad tiende a experimentar acumulación de contaminantes atmosféricos, especialmente durante horas pico. Por ello, resulta fundamental comprender cómo evolucionan estos contaminantes en el tiempo y qué factores influyen en su comportamiento. La meta no solo es describir la evolución de los principales contaminantes, sino también anticipar su comportamiento futuro, de modo que sea posible contar con estimaciones que contribuyan a emitir alertas tempranas y apoyar la toma de decisiones orientadas a la salud pública y la gestión ambiental.
 
